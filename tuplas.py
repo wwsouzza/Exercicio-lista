@@ -1,0 +1,8 @@
+semana = ("segunda", "terça","quarta")
+print(semana)
+semana1 =list(semana)
+print(semana1)
+semana1.append("quinta")
+print(semana)
+semana2 = tuple(semana)
+print(semana2)
