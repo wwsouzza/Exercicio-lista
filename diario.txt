@@ -1,0 +1,6 @@
+Dia 1: aprendi a ler arquivos
+Dia 2: aprendi a gravar arquivos
+Dia 3: aprendi a manipular strings
+Dia 1: aprendi a ler arquivos
+Dia 2: aprendi a gravar arquivos
+Dia 3: aprendi a manipular strings
