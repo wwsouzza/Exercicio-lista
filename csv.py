@@ -14,3 +14,4 @@ with open("notas.csv", newline="", encoding="utf-8") as notas:
         print(f"{aluno['nome']} - {situacao} - Média: {media:.2f}")
         
         escritor.writerow({"nome": aluno["nome"], "media": round(media, 2), "situacao": situacao})
+        
