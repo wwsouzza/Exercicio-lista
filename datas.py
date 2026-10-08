@@ -14,8 +14,7 @@ dias_da_semana = {
 }
 dia_semana = dias_da_semana[nascimento.weekday()]
 natal = date(hoje.year, 12, 25)
-if hoje > natal:
-    natal = date(hoje.year + 1, 12, 25)
+
 dias_para_natal = (natal - hoje).days
 
 print("Você tem aproximadamente", idade, "anos.")
